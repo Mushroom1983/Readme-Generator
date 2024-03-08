@@ -1,8 +1,8 @@
 
-    # Readme Generator
+    # Readme generator
 
   ## Description
-  project demo
+  create a readme
 
   ## Table of Contents
   - [Installation](#installation)
@@ -16,17 +16,17 @@
   npm install
 
   ## Usage
-  test
+  follow prompts to create a readme
 
   ## License
   This project is licensed under the MIT License. [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
   ## Contributing
-  test
+  follow the prompts
 
   ## Tests
   npm test
 
   ## Questions
-  For questions or feedback, feel free to contact me at ndavey1983@gmail.com. You can also find me on GitHub: [Mushroom1983](https://github.com/Mushroom1983).
+  For questions or feedback, feel free to contact me at ndavey1983@gmail.com. You can also find me on GitHub: [Musharoom1983](https://github.com/Musharoom1983).
   
