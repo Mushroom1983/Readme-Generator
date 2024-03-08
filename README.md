@@ -2,7 +2,9 @@
     # Readme generator
 
   ## Description
-  create a readme
+  Auto create a README.md by answering questions within the command prompt.
+
+  Video link: https://app.screencastify.com/v3/watch/g0Jtc0Gr6atm5ehMVSrH
 
   ## Table of Contents
   - [Installation](#installation)
